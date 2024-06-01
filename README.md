@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was developed for the Smart India Hackathon and focuses on creating a comprehensive website for NDRF officials. The platform aggregates live data on weather, temperature, and disaster-related information to enhance transparency for disaster relief fund donations.
+This project was developed for the Smart India Hackathon and focused on creating a comprehensive website for NDRF officials for Supply Chain Management. The platform aggregates live data on weather, temperature, and disaster-related information to enhance transparency for disaster relief fund donations.
 
 ### Key Features
 - **Front-End Development**: Implemented using HTML, CSS, React, and three.js, with JavaScript Vite for optimized development.
